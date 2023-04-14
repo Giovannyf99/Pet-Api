@@ -29,10 +29,10 @@ Here are the request methods:
 - Example below
 
 ```
-    {
-		"id": 1,
-		"Name": "Benedict"
-    }
+{
+	"id": 1,
+	"Name": "Benedict"
+}
 ```
 }
 
